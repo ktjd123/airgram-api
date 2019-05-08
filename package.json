@@ -12,7 +12,7 @@
     "tdlib typescript"
   ],
   "scripts": {
-    "clean": "rm -rf dist",
+    "clean": "rm -rf inputs && rm -rf methods && rm -rf models && rm -rf outputs && rm -f enums.* && rm -f index.*",
     "compile": "npm run clean && tsc",
     "deploy": "np --yolo",
     "lint": "tslint --project \".\"",
