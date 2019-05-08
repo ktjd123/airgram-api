@@ -1,6 +1,6 @@
 {
   "name": "airgram-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://airgram.io",
   "main": "index.js",
   "types": "index.d.ts",
