@@ -2,8 +2,8 @@
   "name": "airgram-api",
   "version": "1.0.2",
   "homepage": "https://airgram.io",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
+  "types": "index.d.ts",
   "keywords": [
     "telegram",
     "tdlib typings",
