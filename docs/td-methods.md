@@ -3596,7 +3596,7 @@ Returns an ordered list of chats. Chats are sorted by the pair (order, chat_id) 
 
 | Parameter | Type | Description |
 | ---- | ---- | ---- |
-| `offsetOrder` | number &#124; string | Chat order to return chats from |
+| `offsetOrder` | string | Chat order to return chats from |
 | `offsetChatId` | number | Chat identifier to return chats from |
 | `limit` | number | The maximum number of chats to be returned. It is possible that fewer chats than the limit are returned even if the end of the list is not reached |
 
